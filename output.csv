@@ -1,0 +1,87 @@
+Welcome to Personal Journal Manager
+Choose an operation:
+1. Add a new entry
+2. View all entries
+3. Search for an entry
+4. Delete all entries
+5. Exit
+User Input:  1
+Enter your journal entry:  Today was a productive day.I learned about file handling in python. Entry added successfully!
+Entry added successfully!
+
+Choose an operation:
+1. Add a new entry
+2. View all entries
+3. Search for an entry
+4. Delete all entries
+5. Exit
+User Input:  1
+Enter your journal entry:  ad a great session on OOP concepts!
+Entry added successfully!
+
+Choose an operation:
+1. Add a new entry
+2. View all entries
+3. Search for an entry
+4. Delete all entries
+5. Exit
+User Input:  2
+
+Output:
+--------------------
+[2026-09-22 17:24:39]
+Today was a productive day.I learned about file handling in python. Entry added successfully!
+--------------------
+[2026-09-22 17:24:55]
+ad a great session on OOP concepts!
+
+Choose an operation:
+1. Add a new entry
+2. View all entries
+3. Search for an entry
+4. Delete all entries
+5. Exit
+User Input:  3
+Enter a keyword to search:  productive
+
+Search Results:
+--------------------
+[2026-09-22 17:24:39]
+Today was a productive day.I learned about file handling in python. Entry added successfully!
+
+Choose an operation:
+1. Add a new entry
+2. View all entries
+3. Search for an entry
+4. Delete all entries
+5. Exit
+User Input:  4
+Are you sure you want to delete all entries? (yes/no):  yes
+All entries deleted successfully!
+
+Choose an operation:
+1. Add a new entry
+2. View all entries
+3. Search for an entry
+4. Delete all entries
+5. Exit
+User Input:  2
+No entries found.
+
+Choose an operation:
+1. Add a new entry
+2. View all entries
+3. Search for an entry
+4. Delete all entries
+5. Exit
+User Input:  6
+Invalid choice. Please try again.
+
+Choose an operation:
+1. Add a new entry
+2. View all entries
+3. Search for an entry
+4. Delete all entries
+5. Exit
+User Input:  5
+Exiting the Personal Journal Manager. Goodbye!
